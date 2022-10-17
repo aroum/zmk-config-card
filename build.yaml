@@ -14,8 +14,8 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: card_left
+    shield: enki42_left
   - board: nice_nano_v2
-    shield: card_right
+    shield: enki42_right
   - board: nice_nano_v2
-    shield: card_dongle
+    shield: enki42_dongle
