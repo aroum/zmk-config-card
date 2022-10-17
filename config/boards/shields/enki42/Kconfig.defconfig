@@ -10,7 +10,7 @@ config ZMK_USB
 if SHIELD_enki42_DONGLE
 
 config ZMK_KEYBOARD_NAME
-	default "The enki42 Dongle"
+	default "enki42 Dongle"
 
 endif
 
